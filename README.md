@@ -15,7 +15,7 @@ This project was created in my spare time to help streamline for my team coordin
 * 🧪 **Hydrostick cycling** every 16 minutes (up to H22).
 * 🕒 **Integrated race clock**, 6-hour countdown timer, and a separate stopwatch.
 * 🌐 **Browser-based** – no installation required.
-* **Dark mode** to protect your little eyes (and especially mine).
+* 🪐 **Dark mode** to protect your little eyes (and especially mine).
 * 🗺 **Multilanguage** - The program is available in French and English.
 
 ---
